@@ -1,4 +1,4 @@
-body {
+﻿body {
 	padding-top: 50px;    /* Padding for .navbar-fixed-top. Change value if navbar height changes. Remove if using .navbar-static-top. */
 	color: #959595;
 	}
@@ -13,7 +13,7 @@ h6 {
 	}
 	
 .feature {
-	background: url('../images/light_bulb.jpg');
+	background: url('https://i.imgur.com/R2IAw1o.png');
 	background-position: top right;
 	background-size: cover;
 	background-color: #dd845a;
@@ -146,12 +146,12 @@ Override Bootstrap Classes
 
 /* Links */
 a {
-  color: orange;
+  color: black;
   text-decoration: none;
 }
 a:hover,
 a:focus {
-  color: darkorange;
+  color: gray;
   text-decoration: underline;
 }
 
