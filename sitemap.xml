@@ -2,49 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://203lir.github.io/realvr/</loc>
-    <lastmod>2018-11-11</lastmod>
+    <lastmod>2018-11-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://203lir.github.io/realvr/demo/vr_demos/index.html</loc>
-    <lastmod>2018-11-11</lastmod>
+    <lastmod>2018-11-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://203lir.github.io/realvr/about_us.html</loc>
-    <lastmod>2018-11-11</lastmod>
+    <lastmod>2018-11-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://203lir.github.io/realvr/demo/2/index.html</loc>
-    <lastmod>2018-11-11</lastmod>
+    <lastmod>2018-11-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://203lir.github.io/realvr/demo/5/index.html</loc>
-    <lastmod>2018-11-11</lastmod>
+    <lastmod>2018-11-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://203lir.github.io/realvr/demo/7/index.html</loc>
+    <lastmod>2018-11-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://203lir.github.io/realvr/demo/4/index.html</loc>
-    <lastmod>2018-11-11</lastmod>
+    <lastmod>2018-11-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://203lir.github.io/realvr/demo/9/index.html</loc>
+    <lastmod>2018-11-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://203lir.github.io/realvr/demo/8/index.html</loc>
+    <lastmod>2018-11-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://203lir.github.io/realvr/demo/1/index.html</loc>
-    <lastmod>2018-11-11</lastmod>
+    <lastmod>2018-11-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://203lir.github.io/realvr/demo/6/index.html</loc>
+    <lastmod>2018-11-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://203lir.github.io/realvr/demo/3/index.html</loc>
-    <lastmod>2018-11-11</lastmod>
+    <lastmod>2018-11-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
